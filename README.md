@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Markos Bahgat [markosbahgat.com][website] 👋
 
-<!--
-**markosbahgat/markosbahgat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm A Full Stack Developer, Graphic Designer and Content Creator.!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a freelancer.
+- 🌱 I’m currently learning python , django and vuejs,
+- 🤔 I’m looking for a full time job as front end or full stack.
+- 📫 How to reach me: Email => markos.bahgat@gmail.com, mobile => +201208444364
+- 👯 I’m looking to collaborate with other content creators and web developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+### Connect with me :
+
