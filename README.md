@@ -1,4 +1,4 @@
-### Hi there, I'm Markos Bahgat [markosbahgat.com](markosbahgat.com)[website] 👋
+### Hi there, I'm Markos Bahgat markosbahgat.com[website](markosbahgat.com) 👋
 
 ### I'm A Full Stack Developer, Graphic Designer and Content Creator.!
 
