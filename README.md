@@ -1,10 +1,10 @@
 ### Hi there, I'm [MARKOS BAHGAT](http://markosbahgat.com)👋
 
-## I'm A Full Stack Developer, Graphic Designer and Content Creator.!
+## I'm A Front End Developer with two years of experience.!
 
 - 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning python , django and vuejs,
-- 🤔 I’m looking for a full time job as front end or full stack.
+- 🌱 I’m currently learning python, django, nextjs and typescript.
+- 🤔 I’m looking for a full time job as front end.
 - 📫 How to reach me: Email => markos.bahgat@gmail.com, mobile => +201208444364
 - 👯 I’m looking to collaborate with other content creators and web developers.
 
