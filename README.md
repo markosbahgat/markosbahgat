@@ -1,6 +1,6 @@
 ### Hi there, I'm [MARKOS BAHGAT](http://markosbahgat.com)👋
 
-## I'm A Front End Developer with two years of experience.!
+## I'm A Front End Developer with almost 3 years of experience.!
 
 - 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning python, django, nextjs and typescript.
