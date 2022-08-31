@@ -1,9 +1,9 @@
-### Hi there, I'm [MARKOS BAHGAT](http://markosbahgat.com)👋
+### Hi there, I'm [MARKOS BAHGAT](https://markosbahgat.com)👋
 
 ## I'm A Front End Developer with almost 3 years of experience.!
 
 - 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning python, django, nextjs and typescript.
+- 🌱 I’m currently learning Nodejs, Nestjs, and React Native.
 - 🤔 I’m looking for a full time job as front end.
 - 📫 How to reach me: Email => markos.bahgat@gmail.com, mobile => +201208444364
 - 👯 I’m looking to collaborate with other content creators and web developers.
