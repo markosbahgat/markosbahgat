@@ -2,11 +2,11 @@
 
 ## I'm A Front End Developer with almost 3 years of experience.!
 
-- 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Nodejs, Nestjs, and React Native.
-- 🤔 I’m looking for a full time job as front end.
+- 🔭 I’m currently working as a Senior Front End In EGT-SOFT (Remotly).
+- 🌱 I’m currently Practicing and building Front End Projects using Angular and Vuejs.
+- 🤔 I’m looking for a Full time Job as a Senior Front End (Hybrid).
 - 📫 How to reach me: Email => markos.bahgat@gmail.com, mobile => +201208444364
-- 👯 I’m looking to collaborate with other content creators and web developers.
+- 👯 I’m looking to collaborate with other Mobile and web developers.
 
 <hr/>
 
